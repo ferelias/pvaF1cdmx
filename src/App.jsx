@@ -28,8 +28,11 @@ function App() {
       <Maps/>
       <Store/>
       <Events/>
-      <Tec/>
       <Drop/>
+      <Tec/>
+      <div className='mt-[10px]'>
+        <Accesibilidad/>
+      </div>
     </>
   )
 }
