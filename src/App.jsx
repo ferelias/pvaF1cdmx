@@ -22,8 +22,8 @@ function App() {
   return (
     <>
       {/* <Menu/> */}
-      <Home/>
       <Accesibilidad/>
+      <Home/>
       <Acces/>
       <Maps/>
       <Store/>
