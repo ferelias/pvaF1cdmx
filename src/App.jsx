@@ -14,6 +14,7 @@ import Maps from './components/maps/Maps'
 import Store from './components/store/Store'
 import Events from './components/events/Events'
 import Drop from './components/drop/Drop'
+import Ux from './components/ux/Ux'
 
 
 function App() {
@@ -23,11 +24,12 @@ function App() {
     <>
       {/* <Menu/> */}
       <Accesibilidad/>
+      <Ux/>
+      <Events/>
       <Home/>
       <Acces/>
       <Maps/>
       <Store/>
-      <Events/>
       <Drop/>
       <Tec/>
       <div className='mt-[10px]'>
