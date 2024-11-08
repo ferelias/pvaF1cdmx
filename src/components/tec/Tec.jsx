@@ -1,6 +1,6 @@
 import React from 'react';
 import tec from '../../assets/tecBand.png';
-import m9 from '../../assets/m9.png';
+import m9 from '../../assets/x9.png';
 
 const Tec = () => {
   return (
