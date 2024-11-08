@@ -1,5 +1,5 @@
 import React from 'react';
-import tec from '../../assets/tec.png';
+import tec from '../../assets/tecBand.png';
 import m9 from '../../assets/m9.png';
 
 const Tec = () => {
